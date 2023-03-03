@@ -1,5 +1,5 @@
 {
-  "name": "@mswjs/data",
+  "name": "@nathanpower/msw-data",
   "description": "Data modeling and relation library for testing JavaScript applications.",
   "version": "0.11.2",
   "main": "lib/index.js",
